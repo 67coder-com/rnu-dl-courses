@@ -1,0 +1,15 @@
+{
+ "programma": "bakalavr",
+ "nazvanie": "Бакалавриат",
+ "kursov": 25,
+ "proverka_daty": [
+  "2026-11-16"
+ ],
+ "srednyaya_gotovnost": 55,
+ "gotov": 3,
+ "dorabotat": 9,
+ "kritichno": 13,
+ "net_dostupa": 0,
+ "po_smyslu": 0,
+ "sobrano": "2026-11-16T21:04"
+}

@@ -1,0 +1,16 @@
+{
+ "programma": "magistr",
+ "nazvanie": "Магистратура",
+ "kursov": 20,
+ "proverka_daty": [
+  "2026-11-15",
+  "2026-11-16"
+ ],
+ "srednyaya_gotovnost": 42,
+ "gotov": 0,
+ "dorabotat": 4,
+ "kritichno": 16,
+ "net_dostupa": 0,
+ "po_smyslu": 1,
+ "sobrano": "2026-11-16T21:04"
+}
