@@ -3,13 +3,16 @@
  "nazvanie": "Бакалавриат",
  "kursov": 25,
  "proverka_daty": [
-  "2026-11-16"
+  "2026-11-16",
+  "2026-11-18",
+  "2026-11-19",
+  "2026-11-20"
  ],
- "srednyaya_gotovnost": 55,
- "gotov": 3,
- "dorabotat": 9,
- "kritichno": 13,
+ "srednyaya_gotovnost": 62,
+ "gotov": 7,
+ "dorabotat": 6,
+ "kritichno": 12,
  "net_dostupa": 0,
  "po_smyslu": 0,
- "sobrano": "2026-11-16T21:04"
+ "sobrano": "2026-11-20T01:00"
 }
